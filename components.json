@@ -1,0 +1,25 @@
+{
+  "components": [
+    {
+      "component_id": "OSV-001",
+      "topic": "Python HTTP client library",
+      "broad_query": "python http client library",
+      "specific_query": "http client library python requests",
+      "status": "pending"
+    },
+    {
+      "component_id": "OSV-002",
+      "topic": "Go web framework",
+      "broad_query": "go web framework",
+      "specific_query": "go web framework gin",
+      "status": "pending"
+    },
+    {
+      "component_id": "OSV-003",
+      "topic": "Client-side package manager for the web",
+      "broad_query": "client side package manager",
+      "specific_query": "bower package manager",
+      "status": "pending"
+    }
+  ]
+}
