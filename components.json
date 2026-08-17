@@ -5,33 +5,21 @@
       "topic": "Python HTTP client library",
       "broad_query": "python http client library",
       "specific_query": "http client library python requests",
-      "status": "evaluated",
-      "recommended_repo": "psf/requests",
-      "decision": "PROCEED",
-      "last_activity": "2026-08-11T16:14:26Z",
-      "review_date": "2026-08-17"
+      "status": "pending"
     },
     {
       "component_id": "OSV-002",
       "topic": "Go web framework",
       "broad_query": "go web framework",
       "specific_query": "go web framework gin",
-      "status": "evaluated",
-      "recommended_repo": "gin-gonic/gin",
-      "decision": "PROCEED",
-      "last_activity": "2026-08-15T05:44:19Z",
-      "review_date": "2026-08-17"
+      "status": "pending"
     },
     {
       "component_id": "OSV-003",
       "topic": "Client-side package manager for the web",
       "broad_query": "client side package manager",
       "specific_query": "bower package manager",
-      "status": "evaluated",
-      "recommended_repo": "bower/bower",
-      "decision": "REVIEW",
-      "last_activity": "2024-10-13T10:45:04Z",
-      "review_date": "2026-08-17"
+      "status": "pending"
     }
   ]
 }
